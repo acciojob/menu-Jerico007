@@ -1,9 +1,8 @@
 import React from "react";
 import "../styles/App.css";
-import HeaderSection from "./HeaderSection"
-import NavigationSection from "./NavigationSection"
-import CardSection from "./CardSection";
-import FoodData from "../Food Data/FoodData";
+import HeaderSection from "./HeaderSection";
+import NavigationSection from "./NavigationSection";
+
 
 
 
